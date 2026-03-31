@@ -9,6 +9,9 @@ Synchronised Camera Capture
 ## Preview Dataset Samples
 **Synchronized Multi-View Camera Capture**
 
+## Preview Dataset Samples
+**Synchronized Multi-View Camera Capture**
+
 <table>
   <tr>
     <td align="center">
