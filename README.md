@@ -3,47 +3,35 @@
 # Preview Dataset Samples
 Synchronised Camera Capture
 
-# Preview Dataset Samples
-Synchronised Camera Capture
-
-## Preview Dataset Samples
-**Synchronized Multi-View Camera Capture**
-
-## Preview Dataset Samples
-**Synchronized Multi-View Camera Capture**
-
 <table>
   <tr>
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/sohomd/HHID/assets/CAM1.mp4">
-        <img src="https://via.placeholder.com/200x120?text=CAM1" width="200">
-      </a>
-      <br>Camera 1
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/T1.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
-
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/sohomd/HHID/assets/CAM2.mp4">
-        <img src="https://via.placeholder.com/200x120?text=CAM2" width="200">
-      </a>
-      <br>Camera 2
     </td>
-
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/sohomd/HHID/assets/CAM3.mp4">
-        <img src="https://via.placeholder.com/200x120?text=CAM3" width="200">
-      </a>
-      <br>Camera 3
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/T3.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
-
-    <td align="center">
-      <a href="https://raw.githubusercontent.com/sohomd/HHID/assets/CAM4.mp4">
-        <img src="https://via.placeholder.com/200x120?text=CAM4" width="200">
-      </a>
-      <br>Camera 4
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/T4.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td width="200">
+    <video width="200" controls>
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/T5.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
     </td>
   </tr>
 </table>
-
 
 ## Requirements
 linux=22.04.5; Windows 10 or above; python>= 3.8;
