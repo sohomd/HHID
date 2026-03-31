@@ -39,7 +39,7 @@ Synchronised Camera Capture
 
 
 ## Requirements
-linux=22.04.5; Windows 10 or above; python>= 3.8
+linux=22.04.5; Windows 10 or above; python>= 3.8;
 
 ## Dataset
 HHID Download URL
