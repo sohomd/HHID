@@ -39,7 +39,3 @@ linux=22.04.5; Windows 10 or above; python>= 3.8;
 ## Dataset
 <a href="https://tinyurl.com/2t92ktrw" target="_blank" rel="noopener noreferrer">Download Here</a>
 
-HHID Download URL 
-```
-curl -O https://tinyurl.com/2t92ktrw
-```
