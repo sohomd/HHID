@@ -42,7 +42,9 @@ Synchronised Camera Capture
 linux=22.04.5; Windows 10 or above; python>= 3.8;
 
 ## Dataset
-HHID Download URL
+<a href="https://tinyurl.com/29j6483v" target="_blank" rel="noopener noreferrer">Download Here</a>
+
+HHID Download URL 
 ```
-curl -O https://zenodo.org/record/XXXX/files/yourfile.zip
+curl -O https://tinyurl.com/29j6483v
 ```
