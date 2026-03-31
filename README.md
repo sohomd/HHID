@@ -1,7 +1,7 @@
 # HHID: A Human-Human Interaction Dataset for Contact-Aware Novel View Synthesis
 
-# Preview
-Data samples
+# Preview Dataset Samples
+Synchronised Camera Capture
 
 <table>
   <tr>
