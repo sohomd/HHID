@@ -2,6 +2,7 @@
 
 ## Requirements
 linux=22.04.5,
+Windows 10 or above
 python=3.10.13
 
 ## Dataset
