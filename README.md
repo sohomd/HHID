@@ -7,7 +7,7 @@ Synchronised Camera Capture
   <tr>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/T1.mp4" type="video/mp4">
+        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/CAM1.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
     </td>
