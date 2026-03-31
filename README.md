@@ -6,3 +6,6 @@ python=3.10.13,
 
 ## Dataset
 HHID Download URL
+```
+curl -O https://zenodo.org/record/XXXX/files/yourfile.zip
+```
