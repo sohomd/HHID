@@ -7,29 +7,29 @@ Synchronised Camera Capture
   <tr>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/CAM1.mp4" type="video/mp4">
-        Your browser does not support the video tag.
+        <source src="https://github.com/sohomd/HHID/blob/assets/CAM1.mp4" type="video/mp4">
+        Your browser does not support the video tag
       </video>
       <figcaption>Camera 1</figcaption>
     </td>
     </td>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/CAM2.mp4" type="video/mp4">
+        <source src="https://github.com/sohomd/HHID/blob/assets/CAM2.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <figcaption>Camera 2</figcaption>
     </td>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/CAM3.mp4" type="video/mp4">
+        <source src="https://github.com/sohomd/HHID/blob/assets/CAM3.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <figcaption>Camera 3</figcaption>
     </td>
     <td width="200">
     <video width="200" controls>
-        <source src="https://raw.githubusercontent.com/sohomd/PoseGaussian/assets/CAM4.mp4" type="video/mp4">
+        <source src="https://github.com/sohomd/HHID/blob/assets/CAM3.mp4" type="video/mp4">
         Your browser does not support the video tag.
       </video>
       <figcaption>Camera 4</figcaption>
