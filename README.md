@@ -38,7 +38,7 @@ Synchronised Camera Capture
 linux=22.04.5; Windows 10 or above; python>= 3.8;
 
 ## Dataset
-<a href="https://tinyurl.com/2t92ktrw" target="_blank" rel="noopener noreferrer">Download Here</a>
+<a href="https://zenodo.org/api/records/19355525/files-archive" target="_blank" rel="noopener noreferrer">Download Here</a>
 
 ### Evaluation Protocol
 
