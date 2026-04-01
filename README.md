@@ -45,7 +45,7 @@ linux=22.04.5; Windows 10 or above; python>= 3.8;
 - **Rendering:** NVS methods generate outputs from the full scene (union of all subjects).
 - **Metrics:** Occlusion and ISR are computed using identity-aware instance masks (A/B).
 
-This separation ensures accurate measurement of interaction and identity consistency.
+Separation ensures accurate measurement of interaction and identity consistency.
 
 This repository provides evaluation scripts for:
 - **Occlusion (IoU-based contact measure)**
