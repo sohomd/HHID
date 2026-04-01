@@ -70,7 +70,7 @@ python avg_occlusion.py
 ## 📂 Expected Folder Structure
 
 ```bash
-DATASET/
+Data
 ├── Camera1/
 │   ├── Instance Mask/
 │   │   └── A/
@@ -84,7 +84,7 @@ DATASET/
 ├── Camera2/
 ├── Camera3/
 └── Camera4/
-
+Testdata/
 ```
 ## Evaluation Metric (ISR):
 Calculate Identity Switching Rate (change file path in main function if needed)
