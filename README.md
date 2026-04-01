@@ -33,15 +33,54 @@ Synchronised Camera Capture
   </tr>
 </table>
 
+  
 ## Requirements
 linux=22.04.5; Windows 10 or above; python>= 3.8;
 
 ## Dataset
 <a href="https://tinyurl.com/2t92ktrw" target="_blank" rel="noopener noreferrer">Download Here</a>
 
+This repository provides evaluation scripts for:
+- **Occlusion (IoU-based contact measure)**
+- **Identity Switching Rate (ISR)**
+
 ## Installation
 Configure the environment
 ```setup
 conda env create --file environment.yml
+```
+## Occlusion metrics
+Run the below script in the Data folder (change the path in main function if needed)
 
+Per-frame per-camera occlusion
+```setup
+python calculate_occlusion.py
+```
+Average occlusion on all the camera
+```setup
+python avg_occlusion.py
+```
+## 📂 Expected Folder Structure
 
+```bash
+DATASET/
+├── Camera1/
+│   ├── Instance_Mask/
+│   │   └── A/
+│   │   └── B/
+│   │       
+│   └── PRED/
+│       └── Instance_Mask/
+│           ├── A/
+│           └── B/
+│
+├── Camera2/
+├── Camera3/
+└── Camera4/
+
+```
+## Evaluation Metrics:
+Calculate Identity Switching Rate (change file path in main function if needed)
+```setup
+python calculate_ISR.py
+```
