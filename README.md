@@ -39,3 +39,9 @@ linux=22.04.5; Windows 10 or above; python>= 3.8;
 ## Dataset
 <a href="https://tinyurl.com/2t92ktrw" target="_blank" rel="noopener noreferrer">Download Here</a>
 
+## Installation
+Configure the environment
+```setup
+conda env create --file environment.yml
+
+
