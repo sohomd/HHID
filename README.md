@@ -72,12 +72,12 @@ python avg_occlusion.py
 ```bash
 DATASET/
 ├── Camera1/
-│   ├── Instance_Mask/
+│   ├── Instance Mask/
 │   │   └── A/
 │   │   └── B/
 │   │       
 │   └── PRED/
-│       └── Instance_Mask/
+│       └── Instance Mask/
 │           ├── A/
 │           └── B/
 │
