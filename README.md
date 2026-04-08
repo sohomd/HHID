@@ -1,5 +1,10 @@
 # HHID: A Human-Human Interaction Dataset for Contact-Aware Novel View Synthesis
 
+## Supplementary Material and Website
+<a href="https://sohomd.github.io/HHID-Supplementary" target="_blank" rel="noopener noreferrer">Visit Site</a>
+## Dataset
+<a href="https://zenodo.org/api/records/19355525/files-archive" target="_blank" rel="noopener noreferrer">Download Here</a>
+
 # Preview Dataset Samples
 Synchronised Camera Capture
 
@@ -36,10 +41,6 @@ Synchronised Camera Capture
   
 ## Requirements
 linux=22.04.5; Windows 10 or above; python>= 3.8;
-## Supplementary Material and Website
-<a href="https://sohomd.github.io/HHID-Supplementary" target="_blank" rel="noopener noreferrer">Visit Site</a>
-## Dataset
-<a href="https://zenodo.org/api/records/19355525/files-archive" target="_blank" rel="noopener noreferrer">Download Here</a>
 
 ### Evaluation Protocol
 
